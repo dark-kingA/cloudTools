@@ -27,5 +27,9 @@ electron + vue + element-ui +iviewui+ nodejs 等等
 ## 其他
 目前云服务只实现了阿里云的，后续会加入其他云服务商的，以及其他功能。
 
+## 交流群
+
+<img src="info/wx_qun.JPG">
+
 
 
