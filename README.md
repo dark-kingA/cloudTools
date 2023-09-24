@@ -22,6 +22,10 @@ electron + vue + element-ui +iviewui+ nodejs 等等
 <img src="info/mac-2-1.png">
 <h3>云服务器工具-云厂商</h3>
 <img src="info/mac-2-2.png">
+<h3>云服务器工具-阿里云命令回显</h3>
+<img src="info/mac-2-3.png">
+<h3>云服务器工具-华为云接管控制台</h3>
+<img src="info/mac-3.png">
 
 
 ## 其他
