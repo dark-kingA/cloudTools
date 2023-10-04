@@ -4,8 +4,13 @@
 目前工具定位是云安全相关工具，目前是两个模块
 云存储工具、云服务器工具，
 云存储工具主要是针对oss存储、查看、删除、上传、下载、预览等等
-云服务器工具主要是针对ecs服务器的管理，查看、执行命令等等
+云服务工具主要是针对ecs服务器的管理，查看、执行命令等等
 
+## 更新日志
+云服务工具模块：</br>
+阿里云：添加告警管理、可处理告警、配置告警通知。云数据库rds添加账号，添加白名单，开通外网地址</br>
+云存储工具模块：</br>
+阿里云、AWS、京东云 添加STS临时授权</br>
 ## 软件架构
 electron + vue + element-ui +iviewui+ nodejs 等等  
 
@@ -23,14 +28,21 @@ electron + vue + element-ui +iviewui+ nodejs 等等
 <img src="info/mac-1-2.png">
 
 ## 云服务器工具模块
-<h3>云服务器工具-资产列表</h3>
+<h3>云服务工具-资产列表</h3>
 <img src="info/mac-2-1.png">
-<h3>云服务器工具-云厂商</h3>
+<h3>云服务工具-云厂商</h3>
 <img src="info/mac-2-2.png">
-<h3>云服务器工具-阿里云命令回显</h3>
+<h3>云服务工具-阿里云命令回显</h3>
 <img src="info/mac-2-3.png">
-<h3>云服务器工具-华为云接管控制台</h3>
+<h3>云服务工具-华为云接管控制台</h3>
 <img src="info/mac-3.png">
+<h3>云服务工具-阿里云数据库管理</h3>
+<img src="info/mac-4.png">
+<img src="info/mac-4-1.png">
+<h3>云服务工具-阿里云告警管理</h3>
+<img src="info/mac-5.png">
+<img src="info/mac-5-1.png">
+
 
 
 ## 其他
