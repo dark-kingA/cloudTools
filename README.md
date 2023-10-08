@@ -50,6 +50,15 @@ electron + vue + element-ui +iviewui+ nodejs 等等
 
 ## 交流群
 
+## 常见问题
+mac 无法关闭：
+1.左上角点击关闭
+![image](https://github.com/dark-kingA/cloudTools/assets/102812179/c09de423-cf60-46d5-a305-a36404fee1cc)
+
+2.command + q 也可关闭
+
+
+
 <img src="info/wx_qun.JPG">
 
 
