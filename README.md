@@ -49,17 +49,17 @@ electron + vue + element-ui +iviewui+ nodejs 等等
 目前云服务只实现了阿里云、腾讯云、华为云的，后续会加入其他云服务商的，以及其他功能。
 
 ## 交流群
+<img src="info/wx_qun.JPG">
 
 ## 常见问题
-mac 无法关闭：
+<h3>mac 无法关闭</h3>
+
 1.左上角点击关闭
 ![image](https://github.com/dark-kingA/cloudTools/assets/102812179/c09de423-cf60-46d5-a305-a36404fee1cc)
-
 2.command + q 也可关闭
 
 
 
-<img src="info/wx_qun.JPG">
 
 
 
