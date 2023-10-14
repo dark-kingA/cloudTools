@@ -38,6 +38,10 @@ ucloud：接管控制台、主机查询、子用户列表查看、主用户查�
 <h3>云服务工具-阿里云告警管理</h3>
 <img src="info/mac-5.png">
 <img src="info/mac-5-1.png">
+<h3>云服务工具-ucloud相关</h3>
+<img src="info/ucloud-1.png">
+<img src="info/ucloud-2.png">
+
 
 
 
