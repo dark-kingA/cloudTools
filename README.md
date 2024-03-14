@@ -9,6 +9,8 @@
 ## 软件架构
 electron + vue + element-ui +iviewui+ nodejs + go 等等  
 
+## 功能实现图
+<img src="info/xmid-info.png">
 ## 目前实现功能
 阿里云：接管控制台、取消接管、Oss增删改查、远程命令执行回显、历史命令记录查看、子用户列表、云数据库管理、告警管理 </br>
 腾讯云：接管控制台、取消接管、Oss增删改查、远程命令执行回显、子用户列表</br>
