@@ -51,9 +51,6 @@ AWS: 接管控制台、创建后门、子用户列表、策略列表 后门信�
 <img src="info/ucloud-2.png">
 
 
-## 交流群
-关注公众号：红蓝攻防实验室
-
 ## 常见问题
 1、mac系统14.1.2可能会出现应用程序"云资产管理工具.app"无法打开。</br>
 sudo xattr -rd com.apple.quarantine 将应用在拖到终端</br>
